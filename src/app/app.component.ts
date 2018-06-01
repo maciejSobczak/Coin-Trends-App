@@ -10,8 +10,9 @@ import { Chart } from 'chart.js';
 export class AppComponent {
   title = 'app';
 
-  constructor(private _trend: TrendService) { 
+  constructor(private _trend: TrendService) {
     this.NgOnInit();
+    console.log('thats it');
   }
 
   NgOnInit() {
