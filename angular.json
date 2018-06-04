@@ -50,8 +50,7 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "CoinTrends:build",
-            "port": 1337
+            "browserTarget": "CoinTrends:build"
           },
           "configurations": {
             "production": {
