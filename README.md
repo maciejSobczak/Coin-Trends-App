@@ -1,3 +1,13 @@
+CoinTrends - Challenge 2018
+
+Maciej Sobczak, 03.06.2018
+
+This version is the simplest and to local deployment only.
+Main reasons of the above was short amount of available time, elaborated project, lack of experience with cloud services.
+More time would be necessary for further development of the application.
+
+
+
 # CoinTrends
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
